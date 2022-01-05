@@ -1,0 +1,4 @@
+,Unnamed: 0,Product SMILES,empirical formula,monoisotopic peak,MA,Match,m_z,Retention times,Base Peaks,#,RT [min],Area,Int. Type,I,S/N,Chromatogram,Max. m/z,FWHM [min],Abundance
+0,13,C=CCN(C(=O)c1ccccc1)C(C(=O)NC(C)(C)C)c1ccc(CO)o1,C21H26N2O4,371.1970823251201,17,True,371.1971,11.12905,109322.0,10,11.1,28.6267,Chromatogram,13,10217.1,"UV Chromatogram, 254 nm",,0.1,27.033073296120406
+1,15,C=CCN(C(=O)CCCCC)C(C(=O)NC(C)(C)C)c1ccc(CO)o1,C20H32N2O4,365.2440325185,19,True,365.2437,12.94308,100729.0,17,12.8,58.9173,Chromatogram,25,25597.4,"UV Chromatogram, 254 nm",,0.1,55.637418539668026
+2,40,O=C(NC1CCCCC1)C(c1ccc(CO)o1)N(Cc1ccccc1)C(=O)C1CCCCC1,C27H36N2O4,453.27533264742,19,True,453.3141,20.69825,145684.0,47,20.6,18.3511,Chromatogram,27,7741.8,"UV Chromatogram, 254 nm",,0.0,17.329508164211564
