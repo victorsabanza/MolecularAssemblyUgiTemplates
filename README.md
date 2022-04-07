@@ -1,5 +1,5 @@
 # MolecularAssemblyUgiTemplates
-Code used to process and analyze data in Molecular Assembly - Ugi reaction project by Víctor Sabanza Gil.
+Code used to process and analyze data in Molecular Assembly - Ugi reaction project by Víctor Sabanza Gil (MSc intern Sep21-Jan22, Cronin Lab, University of Glasgow).
 
 Example files and results for the second batch are included. The repository contains three folders:
 
