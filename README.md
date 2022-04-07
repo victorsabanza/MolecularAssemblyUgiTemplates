@@ -7,4 +7,4 @@ a) ProductGenerator. It contains the notebook used to generate the theoretical p
 
 b) MS analyzer. It contains the notebook used to process and assign the LC-MS data (LCMSanalyzer.ipynb). The script takes as an input the previous file products_MA.csv, the .ms1 files for the different conditions (extracted from the MS data and included in a "ms1" folder) and the corresponding chromatograms (included in a "chromatograms" folder). Results are included in a "Results" folder
 
-c) Graph Plotter. It contains the notebook used to generate the plots (GraphPlotterv1.ipynb). Input files are products_MA.csv, ProtonIntegration (excel file containing the integrated areas for each ppm region extracted using Mestrenova) and the results from LCMSanalyzer.ipynb (included in "exctracted).
+c) Graph Plotter. It contains the notebook used to generate the plots (GraphPlotterv1.ipynb). Input files are products_MA.csv, ProtonIntegration (excel file containing the integrated areas for each ppm region extracted using Mestrenova) and the results from LCMSanalyzer.ipynb (included in "extracted").
